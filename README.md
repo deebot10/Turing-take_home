@@ -1,24 +1,4 @@
-# README
+# Tea Time
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Schema 
+<img width="836" alt="Screen Shot 2021-11-11 at 22 11 37" src="https://user-images.githubusercontent.com/57773546/141413376-f007d028-cc4b-469d-b898-9fe00a077b0c.png">
